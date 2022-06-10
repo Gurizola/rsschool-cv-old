@@ -75,3 +75,30 @@ a{
 .top-menu-block4{
     flex: 1;
 }
+
+.footer{
+    display: flex;
+    width: 1095px;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-size: 24px;
+    background-color: slategray;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Times, serif;
+    border: 2px solid white;
+}
+
+.footer-block1{
+    flex: 1;
+}
+
+.footer-block2{
+    flex: 1;
+    padding-top: 30px;
+}
+
+.footer-block3{
+    flex: 1;
+    padding-top: 30px;
+}
