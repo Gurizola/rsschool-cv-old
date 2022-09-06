@@ -1,1 +1,1 @@
-https://Gurizola.github.io/rsschool-cv/
+https://gurizola.github.io/rsschool-cv/
